@@ -1,27 +1,49 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: campocta # Your GitHub organization or username, where this repository lives
+repo: APIs-Metrics # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: API Geral - Data 1 (2025-04-01 a 2025-04-30)
+    url: http://api.campoanalises.com.br:1089/api-campo/amostras?inicio=2025-04-01&fim=2025-04-30
+    headers:
+    - "Authorization: Bearer $SECRET_TOKEN_API_GERAL"
+    - "Content-Type: application/json"
+  - name: API Geral - Data 2 (2025-06-01 a 2025-06-30)
+    url: http://api.campoanalises.com.br:1089/api-campo/amostras?inicio=2025-06-01&fim=2025-06-30
+    headers:
+    - "Authorization: Bearer $SECRET_TOKEN_API_GERAL"
+    - "Content-Type: application/json"
+  - name: API Geral - Data 3 (2025-07-01 a 2025-07-30) e offset
+    url: http://api.campoanalises.com.br:1089/api-campo/amostras?inicio=2025-07-01&fim=2025-07-30&offset=5
+    headers:
+    - "Authorization: Bearer $SECRET_TOKEN_API_GERAL"
+    - "Content-Type: application/json"
+  - name: API Terradot - Sem Filtros
+    url: http://api.campoanalises.com.br:6020/api/samples
+    headers:
+    - "Authorization: Bearer $SECRET_TOKEN_API_TERRADOT"
+    - "Content-Type: application/json"
+  - name: API Terradot - Limit (30) e Offset (3000)
+    url: http://api.campoanalises.com.br:6020/api/samples?limit=30&offset=1000
+    headers:
+    - "Authorization: Bearer $SECRET_TOKEN_API_TERRADOT"
+    - "Content-Type: application/json"
+  - name: API Terradot - Start Date (2025-05-01) e Offset (2025-07-01)
+    url: http://api.campoanalises.com.br:6020/api/samples?start_date=2025-05-01&end_date=2025-07-01
+    headers:
+    - "Authorization: Bearer $SECRET_TOKEN_API_TERRADOT"
+    - "Content-Type: application/json"
+  - name: API Terradot - Budget Number (14535/2025)
+    url: http://api.campoanalises.com.br:6020/api/samples?budgetNumber=14535%2F2025
+    headers:
+    - "Authorization: Bearer $SECRET_TOKEN_API_TERRADOT"
+    - "Content-Type: application/json"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  #cname: demo.upptime.js.org
+  baseUrl: /APIs-Metrics
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
