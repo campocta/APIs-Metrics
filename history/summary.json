@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.campoanalises.com.br.ico",
     "slug": "api-geral-data-1-2025-04-01-a-2025-04-30",
     "status": "up",
-    "uptime": "18.63%",
-    "uptimeDay": "18.63%",
-    "uptimeWeek": "18.63%",
-    "uptimeMonth": "18.63%",
-    "uptimeYear": "18.63%",
-    "time": 13047,
-    "timeDay": 13047,
-    "timeWeek": 13047,
-    "timeMonth": 13047,
-    "timeYear": 13047,
-    "dailyMinutesDown": {
-      "2025-11-05": 3
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 11359,
+    "timeDay": 11359,
+    "timeWeek": 11359,
+    "timeMonth": 11359,
+    "timeYear": 11359,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API Geral - Data 2 (2025-06-01 a 2025-06-30)",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.campoanalises.com.br.ico",
     "slug": "api-geral-data-2-2025-06-01-a-2025-06-30",
     "status": "up",
-    "uptime": "11.14%",
-    "uptimeDay": "11.14%",
-    "uptimeWeek": "11.14%",
-    "uptimeMonth": "11.14%",
-    "uptimeYear": "11.14%",
-    "time": 2265,
-    "timeDay": 2265,
-    "timeWeek": 2265,
-    "timeMonth": 2265,
-    "timeYear": 2265,
-    "dailyMinutesDown": {
-      "2025-11-05": 3
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 3265,
+    "timeDay": 3265,
+    "timeWeek": 3265,
+    "timeMonth": 3265,
+    "timeYear": 3265,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API Geral - Data 3 (2025-07-01 a 2025-07-30) e offset",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.campoanalises.com.br.ico",
     "slug": "api-geral-data-3-2025-07-01-a-2025-07-30-e-offset",
     "status": "up",
-    "uptime": "8.12%",
-    "uptimeDay": "8.12%",
-    "uptimeWeek": "8.12%",
-    "uptimeMonth": "8.12%",
-    "uptimeYear": "8.12%",
-    "time": 2403,
-    "timeDay": 2403,
-    "timeWeek": 2403,
-    "timeMonth": 2403,
-    "timeYear": 2403,
-    "dailyMinutesDown": {
-      "2025-11-05": 3
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 4764,
+    "timeDay": 4764,
+    "timeWeek": 4764,
+    "timeMonth": 4764,
+    "timeYear": 4764,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API Terradot - Sem Filtros",
@@ -65,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.campoanalises.com.br.ico",
     "slug": "api-terradot-sem-filtros",
     "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 2410,
-    "timeDay": 2410,
-    "timeWeek": 2410,
-    "timeMonth": 2410,
-    "timeYear": 2410,
+    "uptime": "71.89%",
+    "uptimeDay": "71.89%",
+    "uptimeWeek": "71.89%",
+    "uptimeMonth": "71.89%",
+    "uptimeYear": "71.89%",
+    "time": 4861,
+    "timeDay": 4861,
+    "timeWeek": 4861,
+    "timeMonth": 4861,
+    "timeYear": 4861,
     "dailyMinutesDown": {
-      "2025-11-05": 6
+      "2025-11-05": 11
     }
   },
   {
@@ -85,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.campoanalises.com.br.ico",
     "slug": "api-terradot-limit-30-e-offset-3000",
     "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 983,
-    "timeDay": 983,
-    "timeWeek": 983,
-    "timeMonth": 983,
-    "timeYear": 983,
+    "uptime": "70.66%",
+    "uptimeDay": "70.66%",
+    "uptimeWeek": "70.66%",
+    "uptimeMonth": "70.66%",
+    "uptimeYear": "70.66%",
+    "time": 1297,
+    "timeDay": 1297,
+    "timeWeek": 1297,
+    "timeMonth": 1297,
+    "timeYear": 1297,
     "dailyMinutesDown": {
-      "2025-11-05": 6
+      "2025-11-05": 11
     }
   },
   {
@@ -110,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1990,
-    "timeDay": 1990,
-    "timeWeek": 1990,
-    "timeMonth": 1990,
-    "timeYear": 1990,
+    "time": 2652,
+    "timeDay": 2652,
+    "timeWeek": 2652,
+    "timeMonth": 2652,
+    "timeYear": 2652,
     "dailyMinutesDown": {}
   },
   {
@@ -123,18 +117,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.campoanalises.com.br.ico",
     "slug": "api-terradot-budget-number-14535-2025",
     "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 350,
-    "timeDay": 350,
-    "timeWeek": 350,
-    "timeMonth": 350,
-    "timeYear": 350,
+    "uptime": "70.32%",
+    "uptimeDay": "70.32%",
+    "uptimeWeek": "70.32%",
+    "uptimeMonth": "70.32%",
+    "uptimeYear": "70.32%",
+    "time": 420,
+    "timeDay": 420,
+    "timeWeek": 420,
+    "timeMonth": 420,
+    "timeYear": 420,
     "dailyMinutesDown": {
-      "2025-11-05": 6
+      "2025-11-05": 11
     }
   }
 ]
