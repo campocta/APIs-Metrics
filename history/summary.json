@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.campoanalises.com.br.ico",
     "slug": "api-geral-data-1-2025-04-01-a-2025-04-30",
     "status": "up",
-    "uptime": "91.11%",
-    "uptimeDay": "90.50%",
-    "uptimeWeek": "85.36%",
-    "uptimeMonth": "90.34%",
-    "uptimeYear": "91.11%",
+    "uptime": "91.15%",
+    "uptimeDay": "90.47%",
+    "uptimeWeek": "85.53%",
+    "uptimeMonth": "90.38%",
+    "uptimeYear": "91.15%",
     "time": 9647,
     "timeDay": 10589,
-    "timeWeek": 9271,
+    "timeWeek": 9318,
     "timeMonth": 9545,
     "timeYear": 9647,
     "dailyMinutesDown": {
@@ -44,7 +44,7 @@
       "2025-11-12": 74,
       "2025-11-11": 80,
       "2025-11-10": 68,
-      "2025-11-09": 36
+      "2025-11-09": 21
     }
   },
   {
