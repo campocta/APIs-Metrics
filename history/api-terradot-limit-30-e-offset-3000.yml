@@ -1,7 +1,7 @@
 url: http://api.campoanalises.com.br:6020/api/samples?limit=30&offset=1000
 status: up
 code: 200
-responseTime: 2013
-lastUpdated: 2025-12-09T23:17:33.260Z
+responseTime: 1806
+lastUpdated: 2025-12-10T23:13:39.149Z
 startTime: 2025-11-05T19:26:35.008Z
 generator: Upptime <https://github.com/upptime/upptime>
