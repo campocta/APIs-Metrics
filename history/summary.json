@@ -4,15 +4,15 @@
     "url": "http://api.campoanalises.com.br:1089/api-campo/amostras?inicio=2025-04-01&fim=2025-04-30",
     "icon": "https://icons.duckduckgo.com/ip3/api.campoanalises.com.br.ico",
     "slug": "api-geral-data-1-2025-04-01-a-2025-04-30",
-    "status": "up",
-    "uptime": "92.15%",
-    "uptimeDay": "92.78%",
+    "status": "down",
+    "uptime": "92.26%",
+    "uptimeDay": "92.75%",
     "uptimeWeek": "92.50%",
-    "uptimeMonth": "90.30%",
-    "uptimeYear": "92.15%",
+    "uptimeMonth": "90.44%",
+    "uptimeYear": "92.26%",
     "time": 9571,
     "timeDay": 9205,
-    "timeWeek": 9153,
+    "timeWeek": 9219,
     "timeMonth": 9430,
     "timeYear": 9571,
     "dailyMinutesDown": {
@@ -44,7 +44,7 @@
       "2025-11-18": 288,
       "2025-11-17": 37,
       "2025-11-16": 86,
-      "2025-11-15": 84
+      "2025-11-15": 23
     }
   },
   {
@@ -125,7 +125,7 @@
     "uptimeYear": "96.43%",
     "time": 5540,
     "timeDay": 7168,
-    "timeWeek": 5714,
+    "timeWeek": 5933,
     "timeMonth": 4604,
     "timeYear": 5540,
     "dailyMinutesDown": {
@@ -152,11 +152,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.campoanalises.com.br.ico",
     "slug": "api-terradot-limit-30-e-offset-3000",
     "status": "up",
-    "uptime": "97.13%",
+    "uptime": "97.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "96.54%",
-    "uptimeYear": "97.13%",
+    "uptimeYear": "97.14%",
     "time": 3416,
     "timeDay": 2117,
     "timeWeek": 2757,
