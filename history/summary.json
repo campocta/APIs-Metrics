@@ -4,17 +4,17 @@
     "url": "http://api.campoanalises.com.br:1089/api-campo/amostras?inicio=2025-04-01&fim=2025-04-30",
     "icon": "https://icons.duckduckgo.com/ip3/api.campoanalises.com.br.ico",
     "slug": "api-geral-data-1-2025-04-01-a-2025-04-30",
-    "status": "up",
-    "uptime": "96.66%",
-    "uptimeDay": "94.57%",
+    "status": "down",
+    "uptime": "96.68%",
+    "uptimeDay": "94.54%",
     "uptimeWeek": "91.37%",
-    "uptimeMonth": "93.50%",
-    "uptimeYear": "96.66%",
-    "time": 9636,
+    "uptimeMonth": "93.54%",
+    "uptimeYear": "96.68%",
+    "time": 9635,
     "timeDay": 6647,
     "timeWeek": 9194,
-    "timeMonth": 9602,
-    "timeYear": 9636,
+    "timeMonth": 9600,
+    "timeYear": 9635,
     "dailyMinutesDown": {
       "2026-01-03": 79,
       "2026-01-02": 102,
@@ -44,7 +44,7 @@
       "2025-12-09": 72,
       "2025-12-08": 117,
       "2025-12-07": 34,
-      "2025-12-06": 79
+      "2025-12-06": 62
     }
   },
   {
