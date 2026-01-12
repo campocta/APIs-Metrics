@@ -1,7 +1,7 @@
 url: http://api.campoanalises.com.br:1089/api-campo/amostras?inicio=2025-04-01&fim=2025-04-30
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-01-12T09:26:58.516Z
+status: up
+code: 200
+responseTime: 14122
+lastUpdated: 2026-01-12T09:52:27.117Z
 startTime: 2025-11-05T19:25:53.401Z
 generator: Upptime <https://github.com/upptime/upptime>
