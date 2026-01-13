@@ -1,7 +1,7 @@
 url: http://api.campoanalises.com.br:1089/api-campo/amostras?inicio=2025-06-01&fim=2025-06-30
 status: up
 code: 200
-responseTime: 5130
-lastUpdated: 2026-01-13T09:15:11.558Z
+responseTime: 4432
+lastUpdated: 2026-01-13T23:16:38.103Z
 startTime: 2025-11-05T19:26:05.777Z
 generator: Upptime <https://github.com/upptime/upptime>
