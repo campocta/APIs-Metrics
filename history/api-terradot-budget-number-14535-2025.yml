@@ -1,7 +1,7 @@
 url: http://api.campoanalises.com.br:6020/api/samples?budgetNumber=14535%2F2025
 status: up
 code: 200
-responseTime: 2193
-lastUpdated: 2026-01-15T23:17:26.236Z
+responseTime: 1827
+lastUpdated: 2026-01-16T23:17:53.552Z
 startTime: 2025-11-05T19:26:38.558Z
 generator: Upptime <https://github.com/upptime/upptime>
